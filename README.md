@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, ik ben Lars Vandaele 👋
 
-<!--
-**larsvnd/larsvnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student Bedrijfsondersteunende Informaticawetenschappen aan Regina Pacis Tielt. Ik gebruik GitHub om mijn schoolprojecten en eigen experimenten te delen.
 
-Here are some ideas to get you started:
+### Tech die ik gebruik
+**Talen** &nbsp;·&nbsp; [Python, JavaScript, Java, html, css]
+**Tools** &nbsp;·&nbsp; [BlueJ, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Uitgelichte projecten
+👉 Zie de gepinde repositories hieronder.
+
+### Contact
+- [Email](mailto:lars.vandaele@gmail.com)
